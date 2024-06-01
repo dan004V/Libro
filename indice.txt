@@ -4,3 +4,4 @@ Capitulo 1: Introduccion a Git[A[D[D[D[D[D[D[D[Dcat > indice.txt
 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 Capitulo 2: Flujo de trabajo basico 
 Capitulo 3: Repositorios Remotos 
+Capitulo 5: Conceptos avanzados
