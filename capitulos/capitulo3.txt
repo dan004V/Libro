@@ -1,1 +1,0 @@
-Git permite la creacion de ramas lo que permite tener distintas versi[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnes del mismo proyecto y trabajar de manera simultanea en ellas.
